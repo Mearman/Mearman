@@ -40,6 +40,8 @@ https://simpleicons.org/
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+<br/><br/>
+
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="GCP" width="26px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/mongodb-original-wordmark.svg" />
