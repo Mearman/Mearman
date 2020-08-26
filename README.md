@@ -52,8 +52,8 @@ https://simpleicons.org/
 
 ### 🧱 Platforms
 
-<img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" alt="Android" width="50px" src="https://avatars1.githubusercontent.com/u/32689599?s=200&v=4" />
+<img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/arduino.svg" />
+<img align="left" alt="Android" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/android.svg" />
 <img align="left" alt="TTN" width="50px" src="https://avatars2.githubusercontent.com/u/13333576?s=200&v=4" />
 <img align="left" alt="GCP" width="50px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/github.svg" />
@@ -65,7 +65,7 @@ https://simpleicons.org/
 ### 🔧 Tools
 
 <img align="left" alt="VSVodium" width="50px" src="https://avatars0.githubusercontent.com/u/40338071?s=200&v=4" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/visualstudiocode.svg" />
 <img align="left" alt="Illustrator" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/adobeillustrator.svg" />
 <img align="left" alt="Photoshop" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/adobephotoshop.svg" />
 <img align="left" alt="InDesign" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/adobeindesign.svg" />
