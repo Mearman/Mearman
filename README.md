@@ -28,61 +28,61 @@ https://simpleicons.org/
 
 ### 💬 Languages
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/java.svg" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/java.svg" />
+<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
-<br/><br/>
+<br/><br/><br/>
 
 ### ⚙ Technologies
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="LoRa" width="26px" src="https://avatars0.githubusercontent.com/u/5756403?s=200&v=4" />
-<img align="left" alt="Node-RED" width="26px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/nodered.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/mongodb-original-wordmark.svg" />
-<img align="left" alt="MQTT" width="26px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/mqtt.svg" />
+<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="LoRa" width="50px" src="https://avatars0.githubusercontent.com/u/5756403?s=200&v=4" />
+<img align="left" alt="Node-RED" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/nodered.svg" />
+<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/mongodb-original-wordmark.svg" />
+<img align="left" alt="MQTT" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/mqtt.svg" />
 
-<br/><br/>
+<br/><br/><br/>
 
 ### 🧱 Platforms
 
-<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" alt="Android" width="26px" src="https://avatars1.githubusercontent.com/u/32689599?s=200&v=4" />
-<img align="left" alt="TTN" width="26px" src="https://avatars2.githubusercontent.com/u/13333576?s=200&v=4" />
-<img align="left" alt="GCP" width="26px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Wordpress" width="26px" src="https://avatars2.githubusercontent.com/u/276006?s=200&v=4" />
-<img align="left" alt="Home Assistant" width="26px" src="https://avatars3.githubusercontent.com/u/13844975?s=200&v=4" />
+<img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
+<img align="left" alt="Android" width="50px" src="https://avatars1.githubusercontent.com/u/32689599?s=200&v=4" />
+<img align="left" alt="TTN" width="50px" src="https://avatars2.githubusercontent.com/u/13333576?s=200&v=4" />
+<img align="left" alt="GCP" width="50px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
+<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Wordpress" width="50px" src="https://avatars2.githubusercontent.com/u/276006?s=200&v=4" />
+<img align="left" alt="Home Assistant" width="50px" src="https://avatars3.githubusercontent.com/u/13844975?s=200&v=4" />
 
-<br/><br/>
+<br/><br/><br/>
 
 ### 🔧 Tools
 
-<img align="left" alt="VSVodium" width="26px" src="https://avatars0.githubusercontent.com/u/40338071?s=200&v=4" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Illustrator" width="26px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/adobeillustrator.svg" />
-<img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/adobephotoshop.svg" />
-<img align="left" alt="InDesign" width="26px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/adobeindesign.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/git.svg" />
-<img align="left" alt="Unraid" width="26px" src="https://avatars1.githubusercontent.com/u/42099010?s=200&v=4" />
-<img align="left" alt="Grafana" width="26px" src="https://avatars0.githubusercontent.com/u/7195757?s=200&v=4" />
+<img align="left" alt="VSVodium" width="50px" src="https://avatars0.githubusercontent.com/u/40338071?s=200&v=4" />
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Illustrator" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/adobeillustrator.svg" />
+<img align="left" alt="Photoshop" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/adobephotoshop.svg" />
+<img align="left" alt="InDesign" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/adobeindesign.svg" />
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/git.svg" />
+<img align="left" alt="Unraid" width="50px" src="https://avatars1.githubusercontent.com/u/42099010?s=200&v=4" />
+<img align="left" alt="Grafana" width="50px" src="https://avatars0.githubusercontent.com/u/7195757?s=200&v=4" />
 
-<br/><br/>
+<br/><br/><br/>
 
 ### 📚 Interests and everything else
 
-<img align="left" alt="Raspberry Pi" width="26px" src="https://avatars2.githubusercontent.com/u/1294177?s=200&v=4" />
-<img align="left" alt="Blockchain" width="26px" src="https://raw.githubusercontent.com/github/explore/66e4a32f59558ad7852fca3eee52b5838a5b3cc8/topics/blockchain/blockchain.png" />
-<img align="left" alt="OctoPrint" width="26px" src="https://avatars3.githubusercontent.com/u/5982294?s=200&v=4" />
-<img align="left" alt="Bitcoin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" />
+<img align="left" alt="Raspberry Pi" width="50px" src="https://avatars2.githubusercontent.com/u/1294177?s=200&v=4" />
+<img align="left" alt="Blockchain" width="50px" src="https://raw.githubusercontent.com/github/explore/66e4a32f59558ad7852fca3eee52b5838a5b3cc8/topics/blockchain/blockchain.png" />
+<img align="left" alt="OctoPrint" width="50px" src="https://avatars3.githubusercontent.com/u/5982294?s=200&v=4" />
+<img align="left" alt="Bitcoin" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" />
 
-<br/><br/>
+<br/><br/><br/>
 
 [website]: https://mearman.uk/
 [twitter]: https://twitter.com/MearWolf
