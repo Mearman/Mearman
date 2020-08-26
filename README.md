@@ -30,22 +30,22 @@ https://simpleicons.org/
 
 <img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/java.svg" />
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/python.svg" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/html5.svg" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/css3.svg" />
+<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/sass.svg" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/javascript.svg" />
+<img align="left" alt="TypeScript" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/typescript.svg" />
 
 <br/><br/><br/>
 
 ### ⚙ Technologies
 
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/react.svg" />
+<img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/docker.svg" />
+<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/node-dot-js.svg" />
 <img align="left" alt="LoRa" width="50px" src="https://avatars0.githubusercontent.com/u/5756403?s=200&v=4" />
-<img align="left" alt="Node-RED" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/nodered.svg" />
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/mongodb-original-wordmark.svg" />
+<img align="left" alt="Node-RED" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/node-red.svg" />
+<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/mongodb.svg" />
 <img align="left" alt="MQTT" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/mqtt.svg" />
 
 <br/><br/><br/>
