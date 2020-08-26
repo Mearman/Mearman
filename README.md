@@ -27,7 +27,6 @@ https://simpleicons.org/
 ### 🔧 Languages, Tools, Experience and Interests:
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/java.svg" />
-<!-- <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> -->
 <img align="left" alt="Android" width="26px" src="https://avatars1.githubusercontent.com/u/32689599?s=200&v=4" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
@@ -44,7 +43,6 @@ https://simpleicons.org/
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="GCP" width="26px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/mongodb-original-wordmark.svg" />
-<!-- <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" /> -->
 <img align="left" alt="Illustrator" width="26px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/adobeillustrator.svg" />
 <img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/adobephotoshop.svg" />
 <img align="left" alt="InDesign" width="26px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/adobeindesign.svg" />
