@@ -43,6 +43,7 @@ https://simpleicons.org/
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="LoRa" width="26px" src="https://avatars0.githubusercontent.com/u/5756403?s=200&v=4" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/mongodb-original-wordmark.svg" />
 
 <br/><br/>
@@ -52,7 +53,6 @@ https://simpleicons.org/
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" alt="Android" width="26px" src="https://avatars1.githubusercontent.com/u/32689599?s=200&v=4" />
 <img align="left" alt="TTN" width="26px" src="https://avatars2.githubusercontent.com/u/13333576?s=200&v=4" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="GCP" width="26px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Wordpress" width="26px" src="https://avatars2.githubusercontent.com/u/276006?s=200&v=4" />
