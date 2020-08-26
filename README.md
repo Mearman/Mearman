@@ -38,7 +38,8 @@ https://simpleicons.org/
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="GCP" width="26px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+<img align="left" alt="MongoDB" width="26px" src="icons/mongodb-original-wordmark.svg" />
+<!-- <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" /> -->
 <img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" />
 <img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
 <img align="left" alt="InDesign" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeindesign.svg" />
