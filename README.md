@@ -22,7 +22,7 @@ https://simpleicons.org/
 [<img align="left" alt="Academia" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/academia.svg" />][academia]
 [<img align="left" alt="ResearchGate" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/researchgate.svg" />][researchgate]
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 ---
 
@@ -30,37 +30,37 @@ https://simpleicons.org/
 
 <img align="left" alt="Java" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/java.svg" />
 <img align="left" alt="Python" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/python.svg" />
+<img align="left" alt="TypeScript" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/typescript.svg" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/javascript.svg" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/html5.svg" />
 <img align="left" alt="CSS3" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/css3.svg" />
-<img align="left" alt="Sass" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/sass.svg" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/javascript.svg" />
-<img align="left" alt="TypeScript" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/typescript.svg" />
+<img align="left" alt="SASS" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/sass.svg" />
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 ### ⚙ Technologies
 
 <img align="left" alt="React" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/react.svg" />
 <img align="left" alt="Docker" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/docker.svg" />
 <img align="left" alt="Node.js" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/node-dot-js.svg" />
+<img align="left" alt="MongoDB" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/mongodb.svg" />
 <img align="left" alt="LoRa" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/lora.svg" />
 <img align="left" alt="Node-RED" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/node-red.svg" />
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/mongodb.svg" />
 <img align="left" alt="MQTT" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/mqtt.svg" />
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 ### 🧱 Platforms
 
-<img align="left" alt="Arduino" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/arduino.svg" />
 <img align="left" alt="Android" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/android.svg" />
-<img align="left" alt="TTN" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/ttn.svg" />
 <img align="left" alt="GCP" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/gcp.svg" />
+<img align="left" alt="Arduino" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/arduino.svg" />
+<img align="left" alt="TTN" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/ttn.svg" />
 <img align="left" alt="GitHub" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/github.svg" />
 <img align="left" alt="Wordpress" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/wordpress.svg" />
 <img align="left" alt="Home Assistant" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/homeassistant.svg" />
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 ### 🔧 Tools
 
@@ -72,13 +72,13 @@ https://simpleicons.org/
 <img align="left" alt="Unraid" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/unraid.svg" />
 <img align="left" alt="Grafana" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/grafana.svg" />
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 <img align="left" alt="Illustrator" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/adobeillustrator.svg" />
 <img align="left" alt="Photoshop" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/adobephotoshop.svg" />
 <img align="left" alt="InDesign" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/adobeindesign.svg" />
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 ### 📚 Interests and everything else
 
@@ -87,7 +87,7 @@ https://simpleicons.org/
 <img align="left" alt="OctoPrint" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/octoprint.svg" />
 <img align="left" alt="Bitcoin" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/bitcoin.svg" />
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 [website]: https://mearman.uk/
 [twitter]: https://twitter.com/MearWolf
