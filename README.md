@@ -43,7 +43,7 @@ https://simpleicons.org/
 <img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/react.svg" />
 <img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/docker.svg" />
 <img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/node-dot-js.svg" />
-<img align="left" alt="LoRa" width="50px" src="https://avatars0.githubusercontent.com/u/5756403?s=200&v=4" />
+<img align="left" alt="LoRa" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/lora.svg" />
 <img align="left" alt="Node-RED" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/node-red.svg" />
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/mongodb.svg" />
 <img align="left" alt="MQTT" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/mqtt.svg" />
@@ -54,33 +54,33 @@ https://simpleicons.org/
 
 <img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/arduino.svg" />
 <img align="left" alt="Android" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/android.svg" />
-<img align="left" alt="TTN" width="50px" src="https://avatars2.githubusercontent.com/u/13333576?s=200&v=4" />
-<img align="left" alt="GCP" width="50px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
+<img align="left" alt="TTN" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/ttn.svg" />
+<img align="left" alt="GCP" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/gcp.svg" />
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/github.svg" />
-<img align="left" alt="Wordpress" width="50px" src="https://avatars2.githubusercontent.com/u/276006?s=200&v=4" />
-<img align="left" alt="Home Assistant" width="50px" src="https://avatars3.githubusercontent.com/u/13844975?s=200&v=4" />
+<img align="left" alt="Wordpress" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/wordpress.svg" />
+<img align="left" alt="Home Assistant" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/homeassistant.svg" />
 
 <br/><br/><br/>
 
 ### 🔧 Tools
 
-<img align="left" alt="VSVodium" width="50px" src="https://avatars0.githubusercontent.com/u/40338071?s=200&v=4" />
+<img align="left" alt="VSCodium" width="50px" src="https://avatars0.githubusercontent.com/u/40338071?s=200&v=4" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/visualstudiocode.svg" />
 <img align="left" alt="Illustrator" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/adobeillustrator.svg" />
 <img align="left" alt="Photoshop" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/adobephotoshop.svg" />
 <img align="left" alt="InDesign" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/adobeindesign.svg" />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/git.svg" />
-<img align="left" alt="Unraid" width="50px" src="https://avatars1.githubusercontent.com/u/42099010?s=200&v=4" />
-<img align="left" alt="Grafana" width="50px" src="https://avatars0.githubusercontent.com/u/7195757?s=200&v=4" />
+<img align="left" alt="Unraid" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/unraid.svg" />
+<img align="left" alt="Grafana" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/grafana.svg" />
 
 <br/><br/><br/>
 
 ### 📚 Interests and everything else
 
-<img align="left" alt="Raspberry Pi" width="50px" src="https://avatars2.githubusercontent.com/u/1294177?s=200&v=4" />
-<img align="left" alt="Blockchain" width="50px" src="https://raw.githubusercontent.com/github/explore/66e4a32f59558ad7852fca3eee52b5838a5b3cc8/topics/blockchain/blockchain.png" />
-<img align="left" alt="OctoPrint" width="50px" src="https://avatars3.githubusercontent.com/u/5982294?s=200&v=4" />
-<img align="left" alt="Bitcoin" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" />
+<img align="left" alt="Raspberry Pi" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/raspberrypi.svg" />
+<img align="left" alt="Blockchain" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/blockchain.svg" />
+<img align="left" alt="OctoPrint" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/octoprint.svg" />
+<img align="left" alt="Bitcoin" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/bitcoin.svg" />
 
 <br/><br/><br/>
 
