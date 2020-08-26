@@ -65,6 +65,7 @@ https://simpleicons.org/
 ### 🔧 Tools
 
 <img align="left" alt="IntelliJ" width="50px" src="https://rawcdn.githack.com/Mearman/Mearman/129581b38379e93f00d62afecfcba804bbef3c4d/icons/intellijidea.svg" />
+<img align="left" alt="Android Studio" width="50px" src="https://rawcdn.githack.com/Mearman/Mearman/129581b38379e93f00d62afecfcba804bbef3c4d/icons/androidstudio.svg" />
 <img align="left" alt="VSCodium" width="50px" src="https://avatars0.githubusercontent.com/u/40338071?s=200&v=4" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://rawcdn.githack.com/Mearman/Mearman/129581b38379e93f00d62afecfcba804bbef3c4d/icons/visualstudiocode.svg" />
 <img align="left" alt="Illustrator" width="50px" src="https://rawcdn.githack.com/Mearman/Mearman/129581b38379e93f00d62afecfcba804bbef3c4d/icons/adobeillustrator.svg" />
