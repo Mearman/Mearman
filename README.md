@@ -14,13 +14,13 @@ https://simpleicons.org/
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
-[<img align="left" alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" />][messenger]
-[<img align="left" alt="Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][scholar]
-[<img align="left" alt="Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/academia.svg" />][academia]
-[<img align="left" alt="Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
+[<img align="left" alt="LinkedIn" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Instagram" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Messenger" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/messenger.svg" />][messenger]
+[<img align="left" alt="Google Scholar" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/googlescholar.svg" />][scholar]
+[<img align="left" alt="Academia" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/academia.svg" />][academia]
+[<img align="left" alt="ResearchGate" width="50px" src="https://raw.githubusercontent.com/Mearman/Mearman/master/icons/researchgate.svg" />][researchgate]
 
 <br/><br/><br/>
 
