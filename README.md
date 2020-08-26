@@ -41,9 +41,9 @@ https://simpleicons.org/
 <img align="left" alt="GCP" width="26px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
 <img align="left" alt="MongoDB" width="26px" src="icons/mongodb-original-wordmark.svg" />
 <!-- <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" /> -->
-<img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" />
-<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
-<img align="left" alt="InDesign" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeindesign.svg" />
+<img align="left" alt="Illustrator" width="26px" src="icons/adobeillustrator.svg" />
+<img align="left" alt="Photoshop" width="26px" src="icons/adobephotoshop.svg" />
+<img align="left" alt="InDesign" width="26px" src="icons/adobeindesign.svg" />
 <img align="left" alt="Git" width="26px" src="icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Wordpress" width="26px" src="https://avatars2.githubusercontent.com/u/276006?s=200&v=4" />
