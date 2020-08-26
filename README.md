@@ -68,12 +68,15 @@ https://simpleicons.org/
 <img align="left" alt="Android Studio" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/androidstudio.svg" />
 <img align="left" alt="VSCodium" width="50px" src="https://avatars0.githubusercontent.com/u/40338071?s=200&v=4" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/visualstudiocode.svg" />
-<img align="left" alt="Illustrator" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/adobeillustrator.svg" />
-<img align="left" alt="Photoshop" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/adobephotoshop.svg" />
-<img align="left" alt="InDesign" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/adobeindesign.svg" />
 <img align="left" alt="Git" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/git.svg" />
 <img align="left" alt="Unraid" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/unraid.svg" />
 <img align="left" alt="Grafana" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/grafana.svg" />
+
+<br/><br/><br/>
+
+<img align="left" alt="Illustrator" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/adobeillustrator.svg" />
+<img align="left" alt="Photoshop" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/adobephotoshop.svg" />
+<img align="left" alt="InDesign" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/adobeindesign.svg" />
 
 <br/><br/><br/>
 
