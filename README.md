@@ -71,9 +71,6 @@ https://simpleicons.org/
 <img align="left" alt="Git" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/git.svg" />
 <img align="left" alt="Unraid" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/unraid.svg" />
 <img align="left" alt="Grafana" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/grafana.svg" />
-
-<br/><br/><br/><br/>
-
 <img align="left" alt="Illustrator" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/adobeillustrator.svg" />
 <img align="left" alt="Photoshop" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/adobephotoshop.svg" />
 <img align="left" alt="InDesign" width="50px" src="https://raw.githack.com/Mearman/Mearman/master/icons/adobeindesign.svg" />
