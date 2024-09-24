@@ -234,7 +234,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 31.0 characters per line of code written</li>
+                        <li>Has approximately 30.9 characters per line of code written</li>
                         <li>Mostly pushes code around 10:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -2730,7 +2730,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 247k out of 192m repositories</span>
+                                    <span class="gh">ranked 247k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 166 stars</div>
                             </div>
@@ -2919,7 +2919,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Sept 2024, 18:08:14 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Sept 2024, 19:09:44 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
