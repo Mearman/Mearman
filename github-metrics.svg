@@ -234,7 +234,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 356.3 characters per line of code written</li>
+                        <li>Has approximately 344.5 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -2395,7 +2395,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 82.3k out of 145m users</span>
+                                    <span class="gh">ranked 82.3k out of 148m users</span>
                                 </div>
                                 <div class="text">Published 160 public repositories</div>
                             </div>
@@ -2691,7 +2691,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 300k out of 145m users</span>
+                                    <span class="gh">ranked 300k out of 148m users</span>
                                 </div>
                                 <div class="text">Followed by 47 users</div>
                             </div>
@@ -2729,7 +2729,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 227k out of 196m repositories</span>
+                                    <span class="gh">ranked 227k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 187 stars</div>
                             </div>
@@ -2918,7 +2918,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2024, 17:08:01 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Nov 2024, 18:10:09 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
