@@ -1,3 +1,3 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=435&lines=Joseph+Mearman;Joseph+Mearmann;Joe+Mearman;Joseph+Mearmon;Jo+Mearman;Joe+Meerman;Joseph+Meerman;Joe+Marman;Joseph+Mereman;Joe+Merman;Joseph+Mirman;Joseph+Merman;Joel+Mearman;Joe+Meanman;Joseph+Meirman;Joe+Mearmen;Joesph+Mearman;Joseph+Mareman;Jospeh+Mearman;Joe+Mereman;Joe+Mareman;Joseph+Mearmen;Joseph+Mareman;Joseph+Mearman)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mearman&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mearman&layout=donut&hide=html)](https://github.com/anuraghazra/github-readme-stats)
